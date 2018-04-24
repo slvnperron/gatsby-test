@@ -98,6 +98,10 @@ pricing:
       plan: Custom
       price: '??'
     - description: A large plan for large enterprises
+      items:
+        - Hello 1
+        - Hello2
+        - Hello3
       plan: Enterprise
       price: '499'
 ---
